@@ -1,0 +1,6 @@
+Name Code Credit
+PT1 SECJ2001 2
+PT2 SECJ2002 3
+DSA SECJ2003 3
+Co-curiculum ULRF1234 1
+Netcom SECR2004 4

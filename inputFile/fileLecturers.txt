@@ -1,0 +1,4 @@
+Name LecturerID Faculty
+Hafiz FC003 FC
+Hakim FC001 FC
+Hanif FC002 FC

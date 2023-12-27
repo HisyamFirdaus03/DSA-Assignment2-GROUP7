@@ -1,0 +1,24 @@
+Lecturer: 
+Name      LecturerID    Faculty   
+Hakim     FC001         FC        
+Hanif     FC002         FC        
+Hafiz     FC003         FC        
+
+Student: 
+Name      Matric No.    Course    CGPA      
+Firdaus   A22EC0001     SECRH     1.11      
+Daniel    A22EC0004     SECPH     1.89      
+Arif      A22EC0006     SECRH     2.00      
+Megat     A22EC0005     SECRH     2.33      
+Hisyam    A22EC0007     SECJH     2.55      
+Ali       A22EC0002     SECJH     2.67      
+Haikal    A22EC0003     SECJH     2.67      
+
+Subject: 
+Name                Code      Credit    
+Co-curiculum        ULRF1234  1         
+PT1                 SECJ2001  2         
+PT2                 SECJ2002  3         
+DSA                 SECJ2003  3         
+Netcom              SECR2004  4         
+
